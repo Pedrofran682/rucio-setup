@@ -20,12 +20,12 @@ This script automates the download, extraction, and organization of `.root.tgz` 
 
    **Standard execution:**
    ```bash
-   ./your_script_name.sh <DATASET_DID>
+   ./downloadUnpack.sh <DATASET_DID>
    ```
 
    **Source execution (to remain in the script's final directory):**
    ```bash
-   source your_script_name.sh <DATASET_DID>
+   souce downloadUnpack.sh <DATASET_DID>
    ```
 
 ## Functional Logic
